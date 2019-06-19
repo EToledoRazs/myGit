@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImpostodeRenda</string>
+    <string name="title_activity_act_main">Calcular Imposto</string>
+    <string name="title_activity_act_calc_imp">Calcular Imposto</string>
+    <string name="txt_salario">Digite seu salário</string>
+    <string name="title_salvar">Salvar</string>
+    <string name="title_cancelar">Cancelar</string>
+    <string name="conexao_estabelecida">Conexão estabelecida</string>
+    <string name="calcular_imposto">Calcular imposto</string>
+    <string name="txt_historico">Histórico</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_gravar_salario">Salvar salário</string>
+    <string name="action_info">Info</string>
+    <string name="txt_salario_cli">Salário</string>
+    <string name="txt_salario_result">Resultado</string>
+    <string name="txt_dataCli">Data</string>
+</resources>
